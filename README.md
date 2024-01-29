@@ -1,8 +1,6 @@
 <h1>👋 Hi, I'm George! 
 
-
 🔐 IAM Engineer & Cybersecurity Enthusiast
-
 </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
