@@ -6,7 +6,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <h2>📜 Certifications:</h2>
-- [Okta Certified Professional](https://www.credly.com/badges/539b21e5-b20c-48b2-ac58-f713986345ed?source=linked_in_profile)
+
+- [Okta Certified Consultant](https://www.credly.com/badges/ef7291e5-196a-4a4d-b00a-8b5b23afe5d6/linked_in_profile)
 
 
 <h2> 🤳 Connect with me:</h2>
